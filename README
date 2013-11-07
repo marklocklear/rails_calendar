@@ -1,3 +1,5 @@
+Updated to Rails 3.2 and asset pipeline
+
 == Rails3 fullcalendar example
 
 This is an example application showing how to use the JQuery FullCalendar plugin with Rails3, following RESTful rails practices as closely as possible, and forgoing 'cleverness' for clarity.
